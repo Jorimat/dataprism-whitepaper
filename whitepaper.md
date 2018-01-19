@@ -6,7 +6,7 @@ This paper describes dataprism, a platform implementing the kappa architecture b
 
 ## Introduction
 
-Organisations are constantly at a quest to improve themselves and to get closer to their users or customers. Analyzing data has proven to be a very powerfull way of doing so, but while during the last decade analysis focussed on data produced by the organisation's business processes, today combining internal with external data appears to be the way to go to.
+Organisations are constantly at a quest to improve themselves and to get closer to their users or customers. Analyzing data has proven to be a very powerfull way of doing so, but while during the last decade analysis focused on data produced by the organisation's business processes, today combining internal with external data appears to be the way to go to.
 
 The data landscape within an organisation is very fragmented. Multiple tools collect, process and visualize insights for different purposes. While these services certainly have their value, it becomes hard to track which data is stored where and for which purpose, not only for the operators and engineers, but also for scientists who want to use that data to try and find the hidden treasures. Furthermore, the rate at which a data fragment loses value has increased a lot, requirering near-realtime insights.
 
